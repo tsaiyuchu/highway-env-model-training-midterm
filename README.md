@@ -1,4 +1,3 @@
-# -highway-env-model-training-midterm
 ## <div>Install</div>
 
 Using conda envirenment python==3.8  
